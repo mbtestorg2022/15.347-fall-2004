@@ -34,12 +34,57 @@ Readings will also be made available.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Group Project | 50% |
-| Assignment I | 15% |
-| Assignment II | 15% |
-| Participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Project
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment I
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment II
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Individual Assignments
 ----------------------
